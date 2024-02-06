@@ -1,0 +1,12 @@
+AuthorName: SeineEloquenz
+Categories:
+    - Reading
+CurrentVersion: 0.1.0
+CurrentVersionCode: 6
+Description: |
+    FossWallet is a simple Material Design 3 .pkpass Wallet built with Jetpack Compose.
+IssueTracker: ""
+Name: FossWallet
+SourceCode: https://github.com/SeineEloquenz/fosswallet
+Summary: FOSS .pkpass wallet in Material Design 3
+WebSite: ""
