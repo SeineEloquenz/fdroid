@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1707236161000,
+    "timestamp": 1707323716000,
     "version": 20001,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -19,9 +19,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "entry",
-      "added": 1707236161000,
+      "added": 1707323716000,
       "packageName": "568a05ca43205c586481a5ddde1bef089cdc86004f44c320699d65a9ff520bcc",
-      "lastUpdated": 1707236161000
+      "lastUpdated": 1707323716000
     },
     {
       "categories": [
@@ -30,25 +30,25 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "entry",
-      "added": 1707236161000,
+      "added": 1707323716000,
       "packageName": "9ea7dafc85c22dc65cb11ce2bdabc150dc023253596e01c7a70d5368d31dbe10",
-      "lastUpdated": 1707236161000
+      "lastUpdated": 1707323716000
     },
     {
       "authorName": "SeineEloquenz",
       "categories": [
         "Reading"
       ],
-      "suggestedVersionName": "0.1.0",
-      "suggestedVersionCode": "6",
+      "suggestedVersionName": "0.2.0",
+      "suggestedVersionCode": "7",
       "description": "FossWallet is a simple Material Design 3 .pkpass Wallet built with Jetpack Compose.\n",
       "license": "Unknown",
       "name": "FossWallet",
       "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
       "summary": "FOSS .pkpass wallet in Material Design 3",
-      "added": 1707236158000,
+      "added": 1707323711000,
       "packageName": "nz.eloque.foss_wallet",
-      "lastUpdated": 1707236158000
+      "lastUpdated": 1707323712000
     },
     {
       "categories": [
@@ -57,15 +57,15 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "index-v2",
-      "added": 1707236161000,
+      "added": 1707323716000,
       "packageName": "9a25dd8254a2577b0b53d20e9a3330d4fec5b72c5eae332cf7d1d94c015eeace",
-      "lastUpdated": 1707236161000
+      "lastUpdated": 1707323716000
     }
   ],
   "packages": {
     "568a05ca43205c586481a5ddde1bef089cdc86004f44c320699d65a9ff520bcc": [
       {
-        "added": 1707236161000,
+        "added": 1707323716000,
         "apkName": "entry.json",
         "hash": "568a05ca43205c586481a5ddde1bef089cdc86004f44c320699d65a9ff520bcc",
         "hashType": "sha256",
@@ -76,7 +76,7 @@
     ],
     "9a25dd8254a2577b0b53d20e9a3330d4fec5b72c5eae332cf7d1d94c015eeace": [
       {
-        "added": 1707236161000,
+        "added": 1707323716000,
         "apkName": "index-v2.json",
         "hash": "9a25dd8254a2577b0b53d20e9a3330d4fec5b72c5eae332cf7d1d94c015eeace",
         "hashType": "sha256",
@@ -87,7 +87,7 @@
     ],
     "9ea7dafc85c22dc65cb11ce2bdabc150dc023253596e01c7a70d5368d31dbe10": [
       {
-        "added": 1707236161000,
+        "added": 1707323716000,
         "apkName": "entry.jar",
         "hash": "9ea7dafc85c22dc65cb11ce2bdabc150dc023253596e01c7a70d5368d31dbe10",
         "hashType": "sha256",
@@ -98,7 +98,31 @@
     ],
     "nz.eloque.foss_wallet": [
       {
-        "added": 1707236158000,
+        "added": 1707323712000,
+        "apkName": "fosswallet_v0.2.0.apk",
+        "hash": "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "packageName": "nz.eloque.foss_wallet",
+        "sig": "2e31b2f4b55e32c972aa0515bca22f20",
+        "signer": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305",
+        "size": 4727189,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 7,
+        "versionName": "0.2.0"
+      },
+      {
+        "added": 1707323711000,
         "apkName": "fosswallet_v0.1.0.apk",
         "hash": "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d",
         "hashType": "sha256",
