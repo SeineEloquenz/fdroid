@@ -6,10 +6,7 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href=""><img src="fdroid/repo/icons/" alt="entry icon" width="36px" height="36px"></a> | [**entry**]() |  |  (2147483647) |
-| <a href=""><img src="fdroid/repo/icons/" alt="entry icon" width="36px" height="36px"></a> | [**entry**]() |  |  (2147483647) |
 | <a href="https://github.com/SeineEloquenz/fosswallet"><img src="fdroid/repo/icons/" alt="FossWallet icon" width="36px" height="36px"></a> | [**FossWallet**](https://github.com/SeineEloquenz/fosswallet) | FOSS .pkpass wallet in Material Design 3 | 0.3.1 (9) |
-| <a href=""><img src="fdroid/repo/icons/" alt="index-v2 icon" width="36px" height="36px"></a> | [**index-v2**]() |  |  (2147483647) |
 <!-- end apps table -->
 
 ### How to use
