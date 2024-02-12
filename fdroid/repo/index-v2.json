@@ -1,1 +1,168 @@
-{"repo": {"name": {"en-US": "SeineEloquenz' F-Droid"}, "description": {"en-US": ""}, "icon": {"en-US": {"name": "/icons/icon.png", "sha256": "6a972d5ce04884010935aa5489550fa3af01b1e704915bff417425d221bbef91", "size": 1011}}, "address": "https://raw.githubusercontent.com/SeineEloquenz/fdroid/main/fdroid/repo", "timestamp": 1707149381000}, "packages": {}}
+{
+  "repo": {
+    "name": {
+      "en-US": "SeineEloquenz' F-Droid"
+    },
+    "description": {
+      "en-US": "This repository contains apps created by SeineEloquenz."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "6a972d5ce04884010935aa5489550fa3af01b1e704915bff417425d221bbef91",
+        "size": 1011
+      }
+    },
+    "address": "https://raw.githubusercontent.com/SeineEloquenz/fdroid/main/fdroid/repo",
+    "timestamp": 1707775926000,
+    "categories": {
+      "Reading": {
+        "name": {
+          "en-US": "Reading"
+        }
+      }
+    }
+  },
+  "packages": {
+    "nz.eloque.foss_wallet": {
+      "metadata": {
+        "added": 1707319855000,
+        "categories": [
+          "Reading"
+        ],
+        "lastUpdated": 1707774837000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
+        "authorName": "SeineEloquenz",
+        "name": {
+          "en-US": "FossWallet"
+        },
+        "summary": {
+          "en-US": "FOSS .pkpass wallet in Material Design 3"
+        },
+        "description": {
+          "en-US": "FossWallet is a simple Material Design 3 .pkpass Wallet built with Jetpack Compose.\n"
+        },
+        "preferredSigner": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+      },
+      "versions": {
+        "141da4945a001b61f6508a4da5fda175b0942361cd29e9151aa042514f1c2495": {
+          "added": 1707774837000,
+          "file": {
+            "name": "/fosswallet_v0.3.1.apk",
+            "sha256": "141da4945a001b61f6508a4da5fda175b0942361cd29e9151aa042514f1c2495",
+            "size": 4733873
+          },
+          "manifest": {
+            "versionName": "0.3.1",
+            "versionCode": 9,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "29abd683d3889a7f3d9421e4b674b4850752949d44c7a35e6ad04f2fbf2902d3": {
+          "added": 1707774836000,
+          "file": {
+            "name": "/fosswallet_v0.3.0.apk",
+            "sha256": "29abd683d3889a7f3d9421e4b674b4850752949d44c7a35e6ad04f2fbf2902d3",
+            "size": 4731705
+          },
+          "manifest": {
+            "versionName": "0.3.0",
+            "versionCode": 8,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d": {
+          "added": 1707753060000,
+          "file": {
+            "name": "/fosswallet_v0.2.0.apk",
+            "sha256": "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d",
+            "size": 4727189
+          },
+          "manifest": {
+            "versionName": "0.2.0",
+            "versionCode": 7,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d": {
+          "added": 1707319855000,
+          "file": {
+            "name": "/fosswallet_v0.1.0.apk",
+            "sha256": "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d",
+            "size": 4724701
+          },
+          "manifest": {
+            "versionName": "0.1.0",
+            "versionCode": 6,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
