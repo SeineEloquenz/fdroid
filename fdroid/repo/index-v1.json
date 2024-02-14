@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1707792550000,
+    "timestamp": 1707878985000,
     "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -24,9 +24,9 @@
       "name": "FossWallet",
       "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
       "summary": "FOSS .pkpass wallet in Material Design 3",
-      "added": 1707792541000,
+      "added": 1707878976000,
       "packageName": "nz.eloque.foss_wallet",
-      "lastUpdated": 1707792544000,
+      "lastUpdated": 1707878979000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -42,7 +42,7 @@
   "packages": {
     "nz.eloque.foss_wallet": [
       {
-        "added": 1707792544000,
+        "added": 1707878979000,
         "apkName": "fosswallet_v0.3.2.apk",
         "hash": "006cb92f077705fce3b41f0aab9f6e7a15c63843a741d809df337e8446701990",
         "hashType": "sha256",
@@ -66,7 +66,7 @@
         "versionName": "0.3.2"
       },
       {
-        "added": 1707792543000,
+        "added": 1707878978000,
         "apkName": "fosswallet_v0.3.1.apk",
         "hash": "141da4945a001b61f6508a4da5fda175b0942361cd29e9151aa042514f1c2495",
         "hashType": "sha256",
@@ -90,7 +90,7 @@
         "versionName": "0.3.1"
       },
       {
-        "added": 1707792542000,
+        "added": 1707878977000,
         "apkName": "fosswallet_v0.3.0.apk",
         "hash": "29abd683d3889a7f3d9421e4b674b4850752949d44c7a35e6ad04f2fbf2902d3",
         "hashType": "sha256",
@@ -114,7 +114,7 @@
         "versionName": "0.3.0"
       },
       {
-        "added": 1707792542000,
+        "added": 1707878977000,
         "apkName": "fosswallet_v0.2.0.apk",
         "hash": "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d",
         "hashType": "sha256",
@@ -138,7 +138,7 @@
         "versionName": "0.2.0"
       },
       {
-        "added": 1707792541000,
+        "added": 1707878976000,
         "apkName": "fosswallet_v0.1.0.apk",
         "hash": "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d",
         "hashType": "sha256",
