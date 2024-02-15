@@ -14,16 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/SeineEloquenz/fdroid/main/fdroid/repo",
-    "timestamp": 1707878985000
+    "timestamp": 1707965379000
   },
   "packages": {
     "nz.eloque.foss_wallet": {
       "metadata": {
-        "added": 1707878976000,
+        "added": 1707965369000,
         "categories": [
           "Reading"
         ],
-        "lastUpdated": 1707878979000,
+        "lastUpdated": 1707965372000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
         "screenshots": {
@@ -66,7 +66,7 @@
       },
       "versions": {
         "006cb92f077705fce3b41f0aab9f6e7a15c63843a741d809df337e8446701990": {
-          "added": 1707878979000,
+          "added": 1707965372000,
           "file": {
             "name": "/fosswallet_v0.3.2.apk",
             "sha256": "006cb92f077705fce3b41f0aab9f6e7a15c63843a741d809df337e8446701990",
@@ -95,7 +95,7 @@
           }
         },
         "141da4945a001b61f6508a4da5fda175b0942361cd29e9151aa042514f1c2495": {
-          "added": 1707878978000,
+          "added": 1707965371000,
           "file": {
             "name": "/fosswallet_v0.3.1.apk",
             "sha256": "141da4945a001b61f6508a4da5fda175b0942361cd29e9151aa042514f1c2495",
@@ -124,7 +124,7 @@
           }
         },
         "29abd683d3889a7f3d9421e4b674b4850752949d44c7a35e6ad04f2fbf2902d3": {
-          "added": 1707878977000,
+          "added": 1707965371000,
           "file": {
             "name": "/fosswallet_v0.3.0.apk",
             "sha256": "29abd683d3889a7f3d9421e4b674b4850752949d44c7a35e6ad04f2fbf2902d3",
@@ -153,7 +153,7 @@
           }
         },
         "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d": {
-          "added": 1707878977000,
+          "added": 1707965370000,
           "file": {
             "name": "/fosswallet_v0.2.0.apk",
             "sha256": "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d",
@@ -182,7 +182,7 @@
           }
         },
         "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d": {
-          "added": 1707878976000,
+          "added": 1707965369000,
           "file": {
             "name": "/fosswallet_v0.1.0.apk",
             "sha256": "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d",
