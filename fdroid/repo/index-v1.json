@@ -1,7 +1,7 @@
 {
   "repo": {
-    "timestamp": 1710384639000,
-    "version": 20001,
+    "timestamp": 1710470993000,
+    "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
     "address": "https://raw.githubusercontent.com/SeineEloquenz/fdroid/main/fdroid/repo",
@@ -12,28 +12,6 @@
     "uninstall": []
   },
   "apps": [
-    {
-      "categories": [
-        "fdroid"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
-      "name": "entry",
-      "added": 1710384636000,
-      "packageName": "88ae6f4508225582138bf30308a021c5da53c635a9b7de1811dc3e80207cd73d",
-      "lastUpdated": 1710384636000
-    },
-    {
-      "categories": [
-        "fdroid"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
-      "name": "entry",
-      "added": 1710384636000,
-      "packageName": "e930bc346eac51d42ca00a3f16ff0f9a3273ed38e5468004381830007c9a9b9d",
-      "lastUpdated": 1710384636000
-    },
     {
       "authorName": "SeineEloquenz",
       "categories": [
@@ -46,9 +24,9 @@
       "name": "FossWallet",
       "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
       "summary": "FOSS .pkpass wallet in Material Design 3",
-      "added": 1710384626000,
+      "added": 1710470980000,
       "packageName": "nz.eloque.foss_wallet",
-      "lastUpdated": 1710384633000,
+      "lastUpdated": 1710470986000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -59,56 +37,12 @@
           ]
         }
       }
-    },
-    {
-      "categories": [
-        "fdroid"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
-      "name": "index-v2",
-      "added": 1710384636000,
-      "packageName": "f1f1d7f2a9acd9a6a3b14ec5bf6839b13f1ae36ba5440c0c7dca759501b266ad",
-      "lastUpdated": 1710384636000
     }
   ],
   "packages": {
-    "88ae6f4508225582138bf30308a021c5da53c635a9b7de1811dc3e80207cd73d": [
-      {
-        "added": 1710384636000,
-        "apkName": "entry.json",
-        "hash": "88ae6f4508225582138bf30308a021c5da53c635a9b7de1811dc3e80207cd73d",
-        "hashType": "sha256",
-        "packageName": "88ae6f4508225582138bf30308a021c5da53c635a9b7de1811dc3e80207cd73d",
-        "size": 436,
-        "versionName": "88ae6f4"
-      }
-    ],
-    "e930bc346eac51d42ca00a3f16ff0f9a3273ed38e5468004381830007c9a9b9d": [
-      {
-        "added": 1710384636000,
-        "apkName": "entry.jar",
-        "hash": "e930bc346eac51d42ca00a3f16ff0f9a3273ed38e5468004381830007c9a9b9d",
-        "hashType": "sha256",
-        "packageName": "e930bc346eac51d42ca00a3f16ff0f9a3273ed38e5468004381830007c9a9b9d",
-        "size": 2836,
-        "versionName": "e930bc3"
-      }
-    ],
-    "f1f1d7f2a9acd9a6a3b14ec5bf6839b13f1ae36ba5440c0c7dca759501b266ad": [
-      {
-        "added": 1710384636000,
-        "apkName": "index-v2.json",
-        "hash": "f1f1d7f2a9acd9a6a3b14ec5bf6839b13f1ae36ba5440c0c7dca759501b266ad",
-        "hashType": "sha256",
-        "packageName": "f1f1d7f2a9acd9a6a3b14ec5bf6839b13f1ae36ba5440c0c7dca759501b266ad",
-        "size": 12835,
-        "versionName": "f1f1d7f"
-      }
-    ],
     "nz.eloque.foss_wallet": [
       {
-        "added": 1710384633000,
+        "added": 1710470986000,
         "apkName": "fosswallet_v0.5.2.apk",
         "hash": "e184b4701ac02215e8bfb3cff83ce8eb6044ced619a20c71a413f77d5dc19667",
         "hashType": "sha256",
@@ -132,7 +66,7 @@
         "versionName": "0.5.2"
       },
       {
-        "added": 1710384632000,
+        "added": 1710470986000,
         "apkName": "fosswallet_v0.5.1.apk",
         "hash": "bc1914d0d793881472aed223ac788b62a613081542040ab38f2614b9dfc01e7b",
         "hashType": "sha256",
@@ -156,7 +90,7 @@
         "versionName": "0.5.1"
       },
       {
-        "added": 1710384631000,
+        "added": 1710470985000,
         "apkName": "fosswallet_v0.5.0.apk",
         "hash": "cfa2c72680703bd28a1ff9c178120de0ee66d00ee15d1a69fd3aad950ddfb568",
         "hashType": "sha256",
@@ -180,7 +114,7 @@
         "versionName": "0.5.0"
       },
       {
-        "added": 1710384631000,
+        "added": 1710470984000,
         "apkName": "fosswallet_v0.4.1.apk",
         "hash": "e9059e4c4d1abac770d8b521893ef7c002f5137d6d2744b313933a34ccbd6534",
         "hashType": "sha256",
@@ -204,7 +138,7 @@
         "versionName": "0.4.1"
       },
       {
-        "added": 1710384630000,
+        "added": 1710470984000,
         "apkName": "fosswallet_v0.4.0.apk",
         "hash": "e4135e5bfc22804c1a80a5be57f15d53ed0c5371fa5ba7f86670553d63ead1ec",
         "hashType": "sha256",
@@ -228,7 +162,7 @@
         "versionName": "0.4.0"
       },
       {
-        "added": 1710384629000,
+        "added": 1710470983000,
         "apkName": "fosswallet_v0.3.3.apk",
         "hash": "59894717b624a31a0b1fafc244d9de6fc6d8add913f49395443970c2f8e448c0",
         "hashType": "sha256",
@@ -252,7 +186,7 @@
         "versionName": "0.3.3"
       },
       {
-        "added": 1710384629000,
+        "added": 1710470982000,
         "apkName": "fosswallet_v0.3.2.apk",
         "hash": "006cb92f077705fce3b41f0aab9f6e7a15c63843a741d809df337e8446701990",
         "hashType": "sha256",
@@ -276,7 +210,7 @@
         "versionName": "0.3.2"
       },
       {
-        "added": 1710384628000,
+        "added": 1710470982000,
         "apkName": "fosswallet_v0.3.1.apk",
         "hash": "141da4945a001b61f6508a4da5fda175b0942361cd29e9151aa042514f1c2495",
         "hashType": "sha256",
@@ -300,7 +234,7 @@
         "versionName": "0.3.1"
       },
       {
-        "added": 1710384628000,
+        "added": 1710470981000,
         "apkName": "fosswallet_v0.3.0.apk",
         "hash": "29abd683d3889a7f3d9421e4b674b4850752949d44c7a35e6ad04f2fbf2902d3",
         "hashType": "sha256",
@@ -324,7 +258,7 @@
         "versionName": "0.3.0"
       },
       {
-        "added": 1710384627000,
+        "added": 1710470980000,
         "apkName": "fosswallet_v0.2.0.apk",
         "hash": "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d",
         "hashType": "sha256",
@@ -348,7 +282,7 @@
         "versionName": "0.2.0"
       },
       {
-        "added": 1710384626000,
+        "added": 1710470980000,
         "apkName": "fosswallet_v0.1.0.apk",
         "hash": "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d",
         "hashType": "sha256",
