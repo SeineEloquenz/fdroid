@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1711053672000
+  },
+  "packages": {
+    "nz.eloque.foss_wallet": {
+      "versions": {
+        "fb0f16da10d165f10d3eeffd81b262d40dda8586cb990bfdd9f2bd1db1eae790": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
