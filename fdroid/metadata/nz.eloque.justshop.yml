@@ -1,0 +1,16 @@
+AuthorName: SeineEloquenz
+Categories:
+    - Food
+CurrentVersion: "0.1"
+CurrentVersionCode: 1
+Description: |
+    JustShop is a simple Material Design 3 shared shopping list application.
+
+    You need to host the backend yourself.
+    The Rust backend is found in the same repository as the App.
+IssueTracker: ""
+License: AGPL-3.0
+Name: JustShop
+SourceCode: https://github.com/SeineEloquenz/justshop
+Summary: ""
+WebSite: ""

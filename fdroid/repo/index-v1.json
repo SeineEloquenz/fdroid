@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1715222986000,
+    "timestamp": 1715267989000,
     "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -15,7 +15,7 @@
     {
       "authorName": "SeineEloquenz",
       "categories": [
-        "Reading"
+        "Multimedia"
       ],
       "suggestedVersionName": "0.5.4",
       "suggestedVersionCode": "18",
@@ -24,9 +24,9 @@
       "name": "FossWallet",
       "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
       "summary": "FOSS .pkpass wallet in Material Design 3",
-      "added": 1715222972000,
+      "added": 1715267973000,
       "packageName": "nz.eloque.foss_wallet",
-      "lastUpdated": 1715222980000,
+      "lastUpdated": 1715267980000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -37,12 +37,35 @@
           ]
         }
       }
+    },
+    {
+      "authorName": "SeineEloquenz",
+      "categories": [
+        "Food"
+      ],
+      "suggestedVersionName": "0.1",
+      "suggestedVersionCode": "1",
+      "description": "JustShop is a simple Material Design 3 shared shopping list application.\n\nYou need to host the backend yourself.\nThe Rust backend is found in the same repository as the App.\n",
+      "license": "AGPL-3.0",
+      "name": "JustShop",
+      "sourceCode": "https://github.com/SeineEloquenz/justshop",
+      "added": 1715267981000,
+      "packageName": "nz.eloque.justshop",
+      "lastUpdated": 1715267981000,
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png"
+          ]
+        }
+      }
     }
   ],
   "packages": {
     "nz.eloque.foss_wallet": [
       {
-        "added": 1715222980000,
+        "added": 1715267980000,
         "apkName": "fosswallet_v0.5.4.apk",
         "hash": "a26713e47a782e08f581cf56210c5ac04adb967a4a0e05d4bdde1f719a75ff18",
         "hashType": "sha256",
@@ -66,7 +89,7 @@
         "versionName": "0.5.4"
       },
       {
-        "added": 1715222979000,
+        "added": 1715267980000,
         "apkName": "fosswallet_v0.5.3.apk",
         "hash": "fb0f16da10d165f10d3eeffd81b262d40dda8586cb990bfdd9f2bd1db1eae790",
         "hashType": "sha256",
@@ -90,7 +113,7 @@
         "versionName": "0.5.3"
       },
       {
-        "added": 1715222978000,
+        "added": 1715267979000,
         "apkName": "fosswallet_v0.5.2.apk",
         "hash": "e184b4701ac02215e8bfb3cff83ce8eb6044ced619a20c71a413f77d5dc19667",
         "hashType": "sha256",
@@ -114,7 +137,7 @@
         "versionName": "0.5.2"
       },
       {
-        "added": 1715222978000,
+        "added": 1715267978000,
         "apkName": "fosswallet_v0.5.1.apk",
         "hash": "bc1914d0d793881472aed223ac788b62a613081542040ab38f2614b9dfc01e7b",
         "hashType": "sha256",
@@ -138,7 +161,7 @@
         "versionName": "0.5.1"
       },
       {
-        "added": 1715222977000,
+        "added": 1715267978000,
         "apkName": "fosswallet_v0.5.0.apk",
         "hash": "cfa2c72680703bd28a1ff9c178120de0ee66d00ee15d1a69fd3aad950ddfb568",
         "hashType": "sha256",
@@ -162,7 +185,7 @@
         "versionName": "0.5.0"
       },
       {
-        "added": 1715222976000,
+        "added": 1715267977000,
         "apkName": "fosswallet_v0.4.1.apk",
         "hash": "e9059e4c4d1abac770d8b521893ef7c002f5137d6d2744b313933a34ccbd6534",
         "hashType": "sha256",
@@ -186,7 +209,7 @@
         "versionName": "0.4.1"
       },
       {
-        "added": 1715222976000,
+        "added": 1715267976000,
         "apkName": "fosswallet_v0.4.0.apk",
         "hash": "e4135e5bfc22804c1a80a5be57f15d53ed0c5371fa5ba7f86670553d63ead1ec",
         "hashType": "sha256",
@@ -210,7 +233,7 @@
         "versionName": "0.4.0"
       },
       {
-        "added": 1715222975000,
+        "added": 1715267976000,
         "apkName": "fosswallet_v0.3.3.apk",
         "hash": "59894717b624a31a0b1fafc244d9de6fc6d8add913f49395443970c2f8e448c0",
         "hashType": "sha256",
@@ -234,7 +257,7 @@
         "versionName": "0.3.3"
       },
       {
-        "added": 1715222975000,
+        "added": 1715267975000,
         "apkName": "fosswallet_v0.3.2.apk",
         "hash": "006cb92f077705fce3b41f0aab9f6e7a15c63843a741d809df337e8446701990",
         "hashType": "sha256",
@@ -258,7 +281,7 @@
         "versionName": "0.3.2"
       },
       {
-        "added": 1715222974000,
+        "added": 1715267975000,
         "apkName": "fosswallet_v0.3.1.apk",
         "hash": "141da4945a001b61f6508a4da5fda175b0942361cd29e9151aa042514f1c2495",
         "hashType": "sha256",
@@ -282,7 +305,7 @@
         "versionName": "0.3.1"
       },
       {
-        "added": 1715222973000,
+        "added": 1715267974000,
         "apkName": "fosswallet_v0.3.0.apk",
         "hash": "29abd683d3889a7f3d9421e4b674b4850752949d44c7a35e6ad04f2fbf2902d3",
         "hashType": "sha256",
@@ -306,7 +329,7 @@
         "versionName": "0.3.0"
       },
       {
-        "added": 1715222973000,
+        "added": 1715267973000,
         "apkName": "fosswallet_v0.2.0.apk",
         "hash": "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d",
         "hashType": "sha256",
@@ -330,7 +353,7 @@
         "versionName": "0.2.0"
       },
       {
-        "added": 1715222972000,
+        "added": 1715267973000,
         "apkName": "fosswallet_v0.1.0.apk",
         "hash": "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d",
         "hashType": "sha256",
@@ -352,6 +375,32 @@
         ],
         "versionCode": 6,
         "versionName": "0.1.0"
+      }
+    ],
+    "nz.eloque.justshop": [
+      {
+        "added": 1715267981000,
+        "apkName": "justshop_v0.1.apk",
+        "hash": "a71472a61b4395a7c92e3a044a2e911045ca6416e84117f768be19c9b2fc639b",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "packageName": "nz.eloque.justshop",
+        "sig": "3be3534b389482b9a59fd751c04e0846",
+        "signer": "e9ccc30fc7d8ef68eceaca20b2c9ee8f7aef1e499ba77340f9a7d8fb72cb61bb",
+        "size": 4747288,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "nz.eloque.justshop.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "0.1"
       }
     ]
   }
