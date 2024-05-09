@@ -7,4 +7,14 @@ fosswallet:
   # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
   # you can use any name here, but you should look at the existing categories first
   categories:
-    - Reading
+    - Multimedia
+justshop:
+  git: https://github.com/SeineEloquenz/justshop
+  name: "JustShop"
+  description: |
+    JustShop is a simple Material Design 3 shared shopping list application.
+
+    You need to host the backend yourself.
+    The Rust backend is found in the same repository as the App.
+  categories:
+    - Food
