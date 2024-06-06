@@ -1,0 +1,17 @@
+{
+  "repo": {
+    "timestamp": 1717670426000
+  },
+  "packages": {
+    "nz.eloque.justshop": {
+      "versions": {
+        "aa25fa8c42aac312e1d2f8915aaca8c93d8307bae797cebf4ef6e88e43679303": {
+          "releaseChannels": null
+        },
+        "82b7073e0e8d373380bd12b875f84cd5ce4067b22669467510f706fab52716ec": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

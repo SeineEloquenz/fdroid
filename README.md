@@ -7,7 +7,7 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
 | <a href="https://github.com/SeineEloquenz/fosswallet"><img src="fdroid/repo/icons/" alt="FossWallet icon" width="36px" height="36px"></a> | [**FossWallet**](https://github.com/SeineEloquenz/fosswallet) | FOSS .pkpass wallet in Material Design 3 | 0.6.0 (19) |
-| <a href="https://github.com/SeineEloquenz/justshop"><img src="fdroid/repo/icons/" alt="JustShop icon" width="36px" height="36px"></a> | [**JustShop**](https://github.com/SeineEloquenz/justshop) |  | 0.1.4 (5) |
+| <a href="https://github.com/SeineEloquenz/justshop"><img src="fdroid/repo/icons/" alt="JustShop icon" width="36px" height="36px"></a> | [**JustShop**](https://github.com/SeineEloquenz/justshop) |  | 0.2.1 (7) |
 <!-- end apps table -->
 
 ### How to use
