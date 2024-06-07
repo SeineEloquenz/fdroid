@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1717728746000
+  },
+  "packages": {
+    "nz.eloque.justshop": {
+      "metadata": {
+        "summary": {
+          "en-US": "Simple self-hosted shared shopping list with Material Design 3"
+        }
+      }
+    }
+  }
+}
