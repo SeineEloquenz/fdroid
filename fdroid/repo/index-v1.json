@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1720234215000,
+    "timestamp": 1720320839000,
     "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -24,9 +24,9 @@
       "name": "FossWallet",
       "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
       "summary": "FOSS .pkpass wallet in Material Design 3",
-      "added": 1720234195000,
+      "added": 1720320818000,
       "packageName": "nz.eloque.foss_wallet",
-      "lastUpdated": 1720234203000,
+      "lastUpdated": 1720320827000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -50,9 +50,9 @@
       "name": "JustShop",
       "sourceCode": "https://github.com/SeineEloquenz/justshop",
       "summary": "Simple self-hosted shared shopping list with Material Design 3",
-      "added": 1720234204000,
+      "added": 1720320827000,
       "packageName": "nz.eloque.justshop",
-      "lastUpdated": 1720234208000,
+      "lastUpdated": 1720320831000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -66,7 +66,7 @@
   "packages": {
     "nz.eloque.foss_wallet": [
       {
-        "added": 1720234203000,
+        "added": 1720320827000,
         "apkName": "fosswallet_v0.6.0.apk",
         "hash": "97a55396db61fe7578bbc4e645f619d51255bf2e45051a29a899d76b8b12f530",
         "hashType": "sha256",
@@ -90,7 +90,7 @@
         "versionName": "0.6.0"
       },
       {
-        "added": 1720234203000,
+        "added": 1720320826000,
         "apkName": "fosswallet_v0.5.4.apk",
         "hash": "a26713e47a782e08f581cf56210c5ac04adb967a4a0e05d4bdde1f719a75ff18",
         "hashType": "sha256",
@@ -114,7 +114,7 @@
         "versionName": "0.5.4"
       },
       {
-        "added": 1720234202000,
+        "added": 1720320825000,
         "apkName": "fosswallet_v0.5.3.apk",
         "hash": "fb0f16da10d165f10d3eeffd81b262d40dda8586cb990bfdd9f2bd1db1eae790",
         "hashType": "sha256",
@@ -138,7 +138,7 @@
         "versionName": "0.5.3"
       },
       {
-        "added": 1720234202000,
+        "added": 1720320825000,
         "apkName": "fosswallet_v0.5.2.apk",
         "hash": "e184b4701ac02215e8bfb3cff83ce8eb6044ced619a20c71a413f77d5dc19667",
         "hashType": "sha256",
@@ -162,7 +162,7 @@
         "versionName": "0.5.2"
       },
       {
-        "added": 1720234201000,
+        "added": 1720320824000,
         "apkName": "fosswallet_v0.5.1.apk",
         "hash": "bc1914d0d793881472aed223ac788b62a613081542040ab38f2614b9dfc01e7b",
         "hashType": "sha256",
@@ -186,7 +186,7 @@
         "versionName": "0.5.1"
       },
       {
-        "added": 1720234200000,
+        "added": 1720320823000,
         "apkName": "fosswallet_v0.5.0.apk",
         "hash": "cfa2c72680703bd28a1ff9c178120de0ee66d00ee15d1a69fd3aad950ddfb568",
         "hashType": "sha256",
@@ -210,7 +210,7 @@
         "versionName": "0.5.0"
       },
       {
-        "added": 1720234200000,
+        "added": 1720320823000,
         "apkName": "fosswallet_v0.4.1.apk",
         "hash": "e9059e4c4d1abac770d8b521893ef7c002f5137d6d2744b313933a34ccbd6534",
         "hashType": "sha256",
@@ -234,7 +234,7 @@
         "versionName": "0.4.1"
       },
       {
-        "added": 1720234199000,
+        "added": 1720320822000,
         "apkName": "fosswallet_v0.4.0.apk",
         "hash": "e4135e5bfc22804c1a80a5be57f15d53ed0c5371fa5ba7f86670553d63ead1ec",
         "hashType": "sha256",
@@ -258,7 +258,7 @@
         "versionName": "0.4.0"
       },
       {
-        "added": 1720234198000,
+        "added": 1720320822000,
         "apkName": "fosswallet_v0.3.3.apk",
         "hash": "59894717b624a31a0b1fafc244d9de6fc6d8add913f49395443970c2f8e448c0",
         "hashType": "sha256",
@@ -282,7 +282,7 @@
         "versionName": "0.3.3"
       },
       {
-        "added": 1720234198000,
+        "added": 1720320821000,
         "apkName": "fosswallet_v0.3.2.apk",
         "hash": "006cb92f077705fce3b41f0aab9f6e7a15c63843a741d809df337e8446701990",
         "hashType": "sha256",
@@ -306,7 +306,7 @@
         "versionName": "0.3.2"
       },
       {
-        "added": 1720234197000,
+        "added": 1720320820000,
         "apkName": "fosswallet_v0.3.1.apk",
         "hash": "141da4945a001b61f6508a4da5fda175b0942361cd29e9151aa042514f1c2495",
         "hashType": "sha256",
@@ -330,7 +330,7 @@
         "versionName": "0.3.1"
       },
       {
-        "added": 1720234196000,
+        "added": 1720320820000,
         "apkName": "fosswallet_v0.3.0.apk",
         "hash": "29abd683d3889a7f3d9421e4b674b4850752949d44c7a35e6ad04f2fbf2902d3",
         "hashType": "sha256",
@@ -354,7 +354,7 @@
         "versionName": "0.3.0"
       },
       {
-        "added": 1720234196000,
+        "added": 1720320819000,
         "apkName": "fosswallet_v0.2.0.apk",
         "hash": "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d",
         "hashType": "sha256",
@@ -378,7 +378,7 @@
         "versionName": "0.2.0"
       },
       {
-        "added": 1720234195000,
+        "added": 1720320818000,
         "apkName": "fosswallet_v0.1.0.apk",
         "hash": "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d",
         "hashType": "sha256",
@@ -404,7 +404,7 @@
     ],
     "nz.eloque.justshop": [
       {
-        "added": 1720234207000,
+        "added": 1720320830000,
         "apkName": "justshop_v0.2.1.apk",
         "hash": "aa25fa8c42aac312e1d2f8915aaca8c93d8307bae797cebf4ef6e88e43679303",
         "hashType": "sha256",
@@ -428,7 +428,7 @@
         "versionName": "0.2.1"
       },
       {
-        "added": 1720234208000,
+        "added": 1720320831000,
         "apkName": "justshop_v0.2.2.apk",
         "hash": "be5782766aa42f828e2be24cd0824e7e06fdd33d3888462c89c992607f5cf697",
         "hashType": "sha256",
@@ -452,7 +452,7 @@
         "versionName": "0.2.2"
       },
       {
-        "added": 1720234207000,
+        "added": 1720320830000,
         "apkName": "justshop_v0.2.0.apk",
         "hash": "82b7073e0e8d373380bd12b875f84cd5ce4067b22669467510f706fab52716ec",
         "hashType": "sha256",
@@ -476,7 +476,7 @@
         "versionName": "0.2.0"
       },
       {
-        "added": 1720234205000,
+        "added": 1720320828000,
         "apkName": "justshop_v0.1.4.apk",
         "hash": "e8aa3257d089772835c6ac0e28737eb165acf98c2aea0cbc5ed29bd34cc8895f",
         "hashType": "sha256",
@@ -500,7 +500,7 @@
         "versionName": "0.1.4"
       },
       {
-        "added": 1720234205000,
+        "added": 1720320828000,
         "apkName": "justshop_v0.1.3.apk",
         "hash": "b3b0eab5a975ae8f8c083679f71abc42b8fd1132884e3f3029d5eee70b51435e",
         "hashType": "sha256",
@@ -524,7 +524,7 @@
         "versionName": "0.1.3"
       },
       {
-        "added": 1720234204000,
+        "added": 1720320827000,
         "apkName": "justshop_v0.1.2.apk",
         "hash": "a9620712085077231220923a725d6b53dd62f2b7723d793e4d47126a498cfaf1",
         "hashType": "sha256",
@@ -548,7 +548,7 @@
         "versionName": "0.1.2"
       },
       {
-        "added": 1720234206000,
+        "added": 1720320829000,
         "apkName": "justshop_v0.1.apk",
         "hash": "a71472a61b4395a7c92e3a044a2e911045ca6416e84117f768be19c9b2fc639b",
         "hashType": "sha256",
