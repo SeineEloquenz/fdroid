@@ -1,3 +1,10 @@
+embertalk:
+  git: https://github.com/SeineEloquenz/embertalk
+  name: "Embertalk"
+  description: |
+    Embertalk is a private BLE chat application working without an Internet connection.
+  categories:
+    - Messaging
 fosswallet:
   git: https://github.com/SeineEloquenz/fosswallet
   name: "FossWallet"
