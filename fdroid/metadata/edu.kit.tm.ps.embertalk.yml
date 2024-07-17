@@ -1,0 +1,12 @@
+AuthorName: SeineEloquenz
+Categories:
+    - Messaging
+CurrentVersion: 0.1.1
+CurrentVersionCode: 3
+Description: |
+    Embertalk is a private BLE chat application working without an Internet connection.
+IssueTracker: ""
+Name: Embertalk
+SourceCode: https://github.com/SeineEloquenz/embertalk
+Summary: ""
+WebSite: ""
