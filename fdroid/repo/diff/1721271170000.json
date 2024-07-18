@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1721271177000
+  },
+  "packages": {
+    "edu.kit.tm.ps.embertalk": {
+      "metadata": {
+        "summary": {
+          "en-US": "Embertalk is a private BLE chat application working without Internet connection"
+        }
+      }
+    }
+  }
+}
