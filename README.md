@@ -6,7 +6,7 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/SeineEloquenz/embertalk"><img src="fdroid/repo/icons/" alt="Embertalk icon" width="36px" height="36px"></a> | [**Embertalk**](https://github.com/SeineEloquenz/embertalk) | Embertalk is a private BLE chat application working without Internet connection | 0.2.0 (4) |
+| <a href="https://github.com/SeineEloquenz/embertalk"><img src="fdroid/repo/icons/" alt="Embertalk icon" width="36px" height="36px"></a> | [**Embertalk**](https://github.com/SeineEloquenz/embertalk) | Embertalk is a private BLE chat application working without Internet connection | 0.3.0 (5) |
 | <a href="https://github.com/SeineEloquenz/fosswallet"><img src="fdroid/repo/icons/" alt="FossWallet icon" width="36px" height="36px"></a> | [**FossWallet**](https://github.com/SeineEloquenz/fosswallet) | FOSS .pkpass wallet in Material Design 3 | 0.6.0 (19) |
 | <a href="https://github.com/SeineEloquenz/justshop"><img src="fdroid/repo/icons/" alt="JustShop icon" width="36px" height="36px"></a> | [**JustShop**](https://github.com/SeineEloquenz/justshop) | Simple self-hosted shared shopping list with Material Design 3 | 0.2.2 (7) |
 <!-- end apps table -->
