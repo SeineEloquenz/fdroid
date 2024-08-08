@@ -14,16 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/SeineEloquenz/fdroid/main/fdroid/repo",
-    "timestamp": 1722999308000
+    "timestamp": 1723085845000
   },
   "packages": {
     "edu.kit.tm.ps.embertalk": {
       "metadata": {
-        "added": 1722999283000,
+        "added": 1723085822000,
         "categories": [
           "Messaging"
         ],
-        "lastUpdated": 1722999285000,
+        "lastUpdated": 1723085823000,
         "sourceCode": "https://github.com/SeineEloquenz/embertalk",
         "authorName": "SeineEloquenz",
         "name": {
@@ -39,7 +39,7 @@
       },
       "versions": {
         "dafe67bebf14631d626ebf36711db5fc4d5eb9616d713626165f19feb9cb2bc2": {
-          "added": 1722999285000,
+          "added": 1723085823000,
           "file": {
             "name": "/embertalk_v0.3.1.apk",
             "sha256": "dafe67bebf14631d626ebf36711db5fc4d5eb9616d713626165f19feb9cb2bc2",
@@ -104,7 +104,7 @@
           }
         },
         "864bd8213b26e3330bb87802f0fac60fa0001e7fe733cce2a811bde56866b529": {
-          "added": 1722999284000,
+          "added": 1723085823000,
           "file": {
             "name": "/embertalk_v0.3.0.apk",
             "sha256": "864bd8213b26e3330bb87802f0fac60fa0001e7fe733cce2a811bde56866b529",
@@ -169,7 +169,7 @@
           }
         },
         "4aa21c02550c915753507f1bfa43886bca89a4b3c51c7093794fb437557dd2a9": {
-          "added": 1722999284000,
+          "added": 1723085822000,
           "file": {
             "name": "/embertalk_v0.2.0.apk",
             "sha256": "4aa21c02550c915753507f1bfa43886bca89a4b3c51c7093794fb437557dd2a9",
@@ -234,7 +234,7 @@
           }
         },
         "d19dc2ceaf77e17df752e82390387941596fb04178c69a456b64334124b02812": {
-          "added": 1722999283000,
+          "added": 1723085822000,
           "file": {
             "name": "/embertalk_v0.1.1.apk",
             "sha256": "d19dc2ceaf77e17df752e82390387941596fb04178c69a456b64334124b02812",
@@ -302,11 +302,11 @@
     },
     "nz.eloque.foss_wallet": {
       "metadata": {
-        "added": 1722999285000,
+        "added": 1723085824000,
         "categories": [
           "Multimedia"
         ],
-        "lastUpdated": 1722999294000,
+        "lastUpdated": 1723085832000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
         "screenshots": {
@@ -349,7 +349,7 @@
       },
       "versions": {
         "97a55396db61fe7578bbc4e645f619d51255bf2e45051a29a899d76b8b12f530": {
-          "added": 1722999294000,
+          "added": 1723085832000,
           "file": {
             "name": "/fosswallet_v0.6.0.apk",
             "sha256": "97a55396db61fe7578bbc4e645f619d51255bf2e45051a29a899d76b8b12f530",
@@ -378,7 +378,7 @@
           }
         },
         "a26713e47a782e08f581cf56210c5ac04adb967a4a0e05d4bdde1f719a75ff18": {
-          "added": 1722999294000,
+          "added": 1723085831000,
           "file": {
             "name": "/fosswallet_v0.5.4.apk",
             "sha256": "a26713e47a782e08f581cf56210c5ac04adb967a4a0e05d4bdde1f719a75ff18",
@@ -407,7 +407,7 @@
           }
         },
         "fb0f16da10d165f10d3eeffd81b262d40dda8586cb990bfdd9f2bd1db1eae790": {
-          "added": 1722999293000,
+          "added": 1723085831000,
           "file": {
             "name": "/fosswallet_v0.5.3.apk",
             "sha256": "fb0f16da10d165f10d3eeffd81b262d40dda8586cb990bfdd9f2bd1db1eae790",
@@ -436,7 +436,7 @@
           }
         },
         "e184b4701ac02215e8bfb3cff83ce8eb6044ced619a20c71a413f77d5dc19667": {
-          "added": 1722999292000,
+          "added": 1723085830000,
           "file": {
             "name": "/fosswallet_v0.5.2.apk",
             "sha256": "e184b4701ac02215e8bfb3cff83ce8eb6044ced619a20c71a413f77d5dc19667",
@@ -465,7 +465,7 @@
           }
         },
         "bc1914d0d793881472aed223ac788b62a613081542040ab38f2614b9dfc01e7b": {
-          "added": 1722999292000,
+          "added": 1723085829000,
           "file": {
             "name": "/fosswallet_v0.5.1.apk",
             "sha256": "bc1914d0d793881472aed223ac788b62a613081542040ab38f2614b9dfc01e7b",
@@ -494,7 +494,7 @@
           }
         },
         "cfa2c72680703bd28a1ff9c178120de0ee66d00ee15d1a69fd3aad950ddfb568": {
-          "added": 1722999291000,
+          "added": 1723085829000,
           "file": {
             "name": "/fosswallet_v0.5.0.apk",
             "sha256": "cfa2c72680703bd28a1ff9c178120de0ee66d00ee15d1a69fd3aad950ddfb568",
@@ -523,7 +523,7 @@
           }
         },
         "e9059e4c4d1abac770d8b521893ef7c002f5137d6d2744b313933a34ccbd6534": {
-          "added": 1722999290000,
+          "added": 1723085828000,
           "file": {
             "name": "/fosswallet_v0.4.1.apk",
             "sha256": "e9059e4c4d1abac770d8b521893ef7c002f5137d6d2744b313933a34ccbd6534",
@@ -552,7 +552,7 @@
           }
         },
         "e4135e5bfc22804c1a80a5be57f15d53ed0c5371fa5ba7f86670553d63ead1ec": {
-          "added": 1722999290000,
+          "added": 1723085827000,
           "file": {
             "name": "/fosswallet_v0.4.0.apk",
             "sha256": "e4135e5bfc22804c1a80a5be57f15d53ed0c5371fa5ba7f86670553d63ead1ec",
@@ -581,7 +581,7 @@
           }
         },
         "59894717b624a31a0b1fafc244d9de6fc6d8add913f49395443970c2f8e448c0": {
-          "added": 1722999289000,
+          "added": 1723085827000,
           "file": {
             "name": "/fosswallet_v0.3.3.apk",
             "sha256": "59894717b624a31a0b1fafc244d9de6fc6d8add913f49395443970c2f8e448c0",
@@ -610,7 +610,7 @@
           }
         },
         "006cb92f077705fce3b41f0aab9f6e7a15c63843a741d809df337e8446701990": {
-          "added": 1722999288000,
+          "added": 1723085826000,
           "file": {
             "name": "/fosswallet_v0.3.2.apk",
             "sha256": "006cb92f077705fce3b41f0aab9f6e7a15c63843a741d809df337e8446701990",
@@ -639,7 +639,7 @@
           }
         },
         "141da4945a001b61f6508a4da5fda175b0942361cd29e9151aa042514f1c2495": {
-          "added": 1722999287000,
+          "added": 1723085826000,
           "file": {
             "name": "/fosswallet_v0.3.1.apk",
             "sha256": "141da4945a001b61f6508a4da5fda175b0942361cd29e9151aa042514f1c2495",
@@ -668,7 +668,7 @@
           }
         },
         "29abd683d3889a7f3d9421e4b674b4850752949d44c7a35e6ad04f2fbf2902d3": {
-          "added": 1722999287000,
+          "added": 1723085825000,
           "file": {
             "name": "/fosswallet_v0.3.0.apk",
             "sha256": "29abd683d3889a7f3d9421e4b674b4850752949d44c7a35e6ad04f2fbf2902d3",
@@ -697,7 +697,7 @@
           }
         },
         "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d": {
-          "added": 1722999286000,
+          "added": 1723085824000,
           "file": {
             "name": "/fosswallet_v0.2.0.apk",
             "sha256": "e6769be84af039cabd993a8febcd15d3cdadc5ab7a6145fd25c5a173126b7a9d",
@@ -726,7 +726,7 @@
           }
         },
         "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d": {
-          "added": 1722999285000,
+          "added": 1723085824000,
           "file": {
             "name": "/fosswallet_v0.1.0.apk",
             "sha256": "d6b9ac394a05af2f73edd8303527d912febc2d42923e07ad8c6d24058b63cd7d",
@@ -758,11 +758,11 @@
     },
     "nz.eloque.justshop": {
       "metadata": {
-        "added": 1722999295000,
+        "added": 1723085832000,
         "categories": [
           "Food"
         ],
-        "lastUpdated": 1722999299000,
+        "lastUpdated": 1723085836000,
         "license": "AGPL-3.0",
         "sourceCode": "https://github.com/SeineEloquenz/justshop",
         "screenshots": {
@@ -795,7 +795,7 @@
       },
       "versions": {
         "aa25fa8c42aac312e1d2f8915aaca8c93d8307bae797cebf4ef6e88e43679303": {
-          "added": 1722999298000,
+          "added": 1723085835000,
           "file": {
             "name": "/justshop_v0.2.1.apk",
             "sha256": "aa25fa8c42aac312e1d2f8915aaca8c93d8307bae797cebf4ef6e88e43679303",
@@ -824,7 +824,7 @@
           }
         },
         "be5782766aa42f828e2be24cd0824e7e06fdd33d3888462c89c992607f5cf697": {
-          "added": 1722999299000,
+          "added": 1723085836000,
           "file": {
             "name": "/justshop_v0.2.2.apk",
             "sha256": "be5782766aa42f828e2be24cd0824e7e06fdd33d3888462c89c992607f5cf697",
@@ -853,7 +853,7 @@
           }
         },
         "82b7073e0e8d373380bd12b875f84cd5ce4067b22669467510f706fab52716ec": {
-          "added": 1722999298000,
+          "added": 1723085835000,
           "file": {
             "name": "/justshop_v0.2.0.apk",
             "sha256": "82b7073e0e8d373380bd12b875f84cd5ce4067b22669467510f706fab52716ec",
@@ -882,7 +882,7 @@
           }
         },
         "e8aa3257d089772835c6ac0e28737eb165acf98c2aea0cbc5ed29bd34cc8895f": {
-          "added": 1722999296000,
+          "added": 1723085834000,
           "file": {
             "name": "/justshop_v0.1.4.apk",
             "sha256": "e8aa3257d089772835c6ac0e28737eb165acf98c2aea0cbc5ed29bd34cc8895f",
@@ -911,7 +911,7 @@
           }
         },
         "b3b0eab5a975ae8f8c083679f71abc42b8fd1132884e3f3029d5eee70b51435e": {
-          "added": 1722999296000,
+          "added": 1723085833000,
           "file": {
             "name": "/justshop_v0.1.3.apk",
             "sha256": "b3b0eab5a975ae8f8c083679f71abc42b8fd1132884e3f3029d5eee70b51435e",
@@ -940,7 +940,7 @@
           }
         },
         "a9620712085077231220923a725d6b53dd62f2b7723d793e4d47126a498cfaf1": {
-          "added": 1722999295000,
+          "added": 1723085832000,
           "file": {
             "name": "/justshop_v0.1.2.apk",
             "sha256": "a9620712085077231220923a725d6b53dd62f2b7723d793e4d47126a498cfaf1",
@@ -969,7 +969,7 @@
           }
         },
         "a71472a61b4395a7c92e3a044a2e911045ca6416e84117f768be19c9b2fc639b": {
-          "added": 1722999297000,
+          "added": 1723085834000,
           "file": {
             "name": "/justshop_v0.1.apk",
             "sha256": "a71472a61b4395a7c92e3a044a2e911045ca6416e84117f768be19c9b2fc639b",
