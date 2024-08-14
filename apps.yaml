@@ -25,3 +25,8 @@ justshop:
     The Rust backend is found in the same repository as the App.
   categories:
     - Food
+untare:
+  git: https://github.com/SeineEloquenz/Untare
+  name: "Untare"
+  description: |
+    This is a MD3 fork of Untare, an unofficial application for Tandoor recipes
