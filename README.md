@@ -9,6 +9,7 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 | <a href="https://github.com/SeineEloquenz/embertalk"><img src="fdroid/repo/icons/" alt="Embertalk icon" width="36px" height="36px"></a> | [**Embertalk**](https://github.com/SeineEloquenz/embertalk) | Embertalk is a private BLE chat application working without Internet connection | 0.3.1 (6) |
 | <a href="https://github.com/SeineEloquenz/fosswallet"><img src="fdroid/repo/icons/" alt="FossWallet icon" width="36px" height="36px"></a> | [**FossWallet**](https://github.com/SeineEloquenz/fosswallet) | FOSS .pkpass wallet in Material Design 3 | 0.6.0 (19) |
 | <a href="https://github.com/SeineEloquenz/justshop"><img src="fdroid/repo/icons/" alt="JustShop icon" width="36px" height="36px"></a> | [**JustShop**](https://github.com/SeineEloquenz/justshop) | Simple self-hosted shared shopping list with Material Design 3 | 0.2.2 (7) |
+| <a href="https://github.com/SeineEloquenz/Untare"><img src="fdroid/repo/icons/" alt="Untare icon" width="36px" height="36px"></a> | [**Untare**](https://github.com/SeineEloquenz/Untare) | Flutter app for tandoor recipes | 1.4.0 (9) |
 <!-- end apps table -->
 
 ### How to use

@@ -1,0 +1,13 @@
+AuthorName: SeineEloquenz
+Categories:
+    - fdroid
+CurrentVersion: 1.4.0
+CurrentVersionCode: 9
+Description: |
+    This is a MD3 fork of Untare, an unofficial application for Tandoor recipes
+IssueTracker: ""
+License: GPL-3.0
+Name: Untare
+SourceCode: https://github.com/SeineEloquenz/Untare
+Summary: Flutter app for tandoor recipes
+WebSite: ""

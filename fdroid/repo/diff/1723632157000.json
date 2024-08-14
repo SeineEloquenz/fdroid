@@ -1,0 +1,66 @@
+{
+  "repo": {
+    "timestamp": 1723632169000
+  },
+  "packages": {
+    "nz.eloque.untare": {
+      "metadata": {
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/SeineEloquenz/Untare",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/nz.eloque.untare/en-US/phoneScreenshots/1.png",
+                "sha256": "58c7d48f91d90d352f0002fd67257551af583be89b6fb4ff596f3974b6fae281",
+                "size": 51657
+              },
+              {
+                "name": "/nz.eloque.untare/en-US/phoneScreenshots/2.png",
+                "sha256": "c28d3fd29b7654d7e9a59ca134701f2bb986bd31c0dab90082bfea48fd85d585",
+                "size": 73033
+              },
+              {
+                "name": "/nz.eloque.untare/en-US/phoneScreenshots/3.png",
+                "sha256": "8b5f51eb38a2f3042e89d70cc516f62cc9b8f50f907324e74e1a5e5c5018abe8",
+                "size": 31836
+              },
+              {
+                "name": "/nz.eloque.untare/en-US/phoneScreenshots/4.png",
+                "sha256": "a6b9352ea7b23201a7e368bcabfe425ff1ae5d6574dac2a5f7560ef56a4afa32",
+                "size": 41154
+              },
+              {
+                "name": "/nz.eloque.untare/en-US/phoneScreenshots/5.png",
+                "sha256": "50a81d3802b0b80342b82b6bd84aadac3f9b9e974998cd83ae5ae8f8056b6c5f",
+                "size": 17794
+              },
+              {
+                "name": "/nz.eloque.untare/en-US/phoneScreenshots/6.png",
+                "sha256": "85b97ae2046c956735a4c67b5c9e11a10e3f5c6a187f7fa977a32edda85b5fd3",
+                "size": 15845
+              },
+              {
+                "name": "/nz.eloque.untare/en-US/phoneScreenshots/7.png",
+                "sha256": "b1b685c6b0782b17f4b7600b6aa723a5e32c7b6b6292de2e1ec3e11d7720bb7e",
+                "size": 50801
+              },
+              {
+                "name": "/nz.eloque.untare/en-US/phoneScreenshots/8.png",
+                "sha256": "9fac4c1deff058cfa0ab217e2416d124f221000bd4e588aa6bc1439c89e08bcc",
+                "size": 23888
+              }
+            ]
+          }
+        },
+        "authorName": "SeineEloquenz",
+        "summary": {
+          "en-US": "Flutter app for tandoor recipes"
+        },
+        "description": {
+          "en-US": "This is a MD3 fork of Untare, an unofficial application for Tandoor recipes\n"
+        }
+      }
+    }
+  }
+}
