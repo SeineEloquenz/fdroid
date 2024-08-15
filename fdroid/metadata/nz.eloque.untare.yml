@@ -1,8 +1,8 @@
 AuthorName: SeineEloquenz
 Categories:
     - fdroid
-CurrentVersion: 1.4.0
-CurrentVersionCode: 9
+CurrentVersion: 1.4.2
+CurrentVersionCode: 11
 Description: |
     This is a MD3 fork of Untare, an unofficial application for Tandoor recipes
 IssueTracker: ""
