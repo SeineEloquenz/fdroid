@@ -6,11 +6,9 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
+| <a href=""><img src="fdroid/repo/icons/" alt="categories icon" width="36px" height="36px"></a> | [**categories**]() |  |  (2147483647) |
 | <a href="https://github.com/SeineEloquenz/embertalk"><img src="fdroid/repo/icons/" alt="Embertalk icon" width="36px" height="36px"></a> | [**Embertalk**](https://github.com/SeineEloquenz/embertalk) | Embertalk is a private BLE chat application working without Internet connection | 0.3.1 (6) |
-| <a href=""><img src="fdroid/repo/icons/" alt="entry icon" width="36px" height="36px"></a> | [**entry**]() |  |  (2147483647) |
-| <a href=""><img src="fdroid/repo/icons/" alt="entry icon" width="36px" height="36px"></a> | [**entry**]() |  |  (2147483647) |
 | <a href="https://github.com/SeineEloquenz/fosswallet"><img src="fdroid/repo/icons/" alt="FossWallet icon" width="36px" height="36px"></a> | [**FossWallet**](https://github.com/SeineEloquenz/fosswallet) | FOSS .pkpass wallet in Material Design 3 | 0.6.1 (20) |
-| <a href=""><img src="fdroid/repo/icons/" alt="index-v2 icon" width="36px" height="36px"></a> | [**index-v2**]() |  |  (2147483647) |
 | <a href="https://github.com/SeineEloquenz/justshop"><img src="fdroid/repo/icons/" alt="JustShop icon" width="36px" height="36px"></a> | [**JustShop**](https://github.com/SeineEloquenz/justshop) | Simple self-hosted shared shopping list with Material Design 3 | 0.2.2 (7) |
 | <a href="https://github.com/SeineEloquenz/Untare"><img src="fdroid/repo/icons/" alt="Untare icon" width="36px" height="36px"></a> | [**Untare**](https://github.com/SeineEloquenz/Untare) | Flutter app for tandoor recipes | 1.4.2 (11) |
 <!-- end apps table -->

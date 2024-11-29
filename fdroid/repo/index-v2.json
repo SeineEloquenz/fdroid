@@ -14,9 +14,57 @@
       }
     },
     "address": "https://raw.githubusercontent.com/SeineEloquenz/fdroid/main/fdroid/repo",
-    "timestamp": 1732159188000
+    "timestamp": 1732903895000,
+    "categories": {
+      "Food": {
+        "name": {
+          "en-US": "Food"
+        }
+      },
+      "Messaging": {
+        "name": {
+          "en-US": "Messaging"
+        }
+      },
+      "Multimedia": {
+        "name": {
+          "en-US": "Multimedia"
+        }
+      },
+      "fdroid": {
+        "name": {
+          "en-US": "fdroid"
+        }
+      }
+    }
   },
   "packages": {
+    "ae289cce231f8abce0799c93e9819560d7b99c313607ad925e6d0ee8ba91e786": {
+      "metadata": {
+        "added": 1732903885000,
+        "categories": [
+          "fdroid"
+        ],
+        "lastUpdated": 1732903885000,
+        "name": {
+          "en-US": "categories"
+        }
+      },
+      "versions": {
+        "ae289cce231f8abce0799c93e9819560d7b99c313607ad925e6d0ee8ba91e786": {
+          "added": 1732903885000,
+          "file": {
+            "name": "/categories.txt",
+            "sha256": "ae289cce231f8abce0799c93e9819560d7b99c313607ad925e6d0ee8ba91e786",
+            "size": 33
+          },
+          "manifest": {
+            "versionName": "ae289cc",
+            "versionCode": 0
+          }
+        }
+      }
+    },
     "edu.kit.tm.ps.embertalk": {
       "metadata": {
         "added": 1732159161000,
@@ -805,13 +853,13 @@
             "en-US": [
               {
                 "name": "/nz.eloque.justshop/en-US/phoneScreenshots/1.png",
-                "sha256": "a873f6eb227671f52300bfa1ace5f8b42154c2aa6104831e14846f0fbdec9ff7",
-                "size": 120069
+                "sha256": "519fd1764a34c3a7beb9d0e4393a591463998ef2982d2b5c16f38d4b1274888a",
+                "size": 119681
               },
               {
                 "name": "/nz.eloque.justshop/en-US/phoneScreenshots/2.png",
-                "sha256": "71aae4c7640cb0cf2eca6490e0d127d3e37dc085a6333b5b178e232f4d831e2b",
-                "size": 75392
+                "sha256": "802e39f4a41d6c4e13b0e0b8f32da4bdc12394588dff92cb0ee48d0155e5340c",
+                "size": 75004
               }
             ]
           }

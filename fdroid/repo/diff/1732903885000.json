@@ -1,0 +1,27 @@
+{
+  "repo": {
+    "timestamp": 1732903895000
+  },
+  "packages": {
+    "nz.eloque.justshop": {
+      "metadata": {
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/nz.eloque.justshop/en-US/phoneScreenshots/1.png",
+                "sha256": "519fd1764a34c3a7beb9d0e4393a591463998ef2982d2b5c16f38d4b1274888a",
+                "size": 119681
+              },
+              {
+                "name": "/nz.eloque.justshop/en-US/phoneScreenshots/2.png",
+                "sha256": "802e39f4a41d6c4e13b0e0b8f32da4bdc12394588dff92cb0ee48d0155e5340c",
+                "size": 75004
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
