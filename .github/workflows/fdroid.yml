@@ -10,7 +10,7 @@ on:
 jobs:
   apps:
     name: "Generate repo from apps listing"
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
 
@@ -27,6 +27,7 @@ jobs:
 
       - name: Install F-Droid server software
         run: |
+         sudo add-apt-repository ppa:fdroid/fdroidserver
          sudo apt-get update
          sudo apt-get install fdroidserver
 
