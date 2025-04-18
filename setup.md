@@ -32,7 +32,7 @@ When building/releasing a new version of your app, you need to make sure that yo
     Edit the generated `fdroid/config.yml`. The comments will tell you a lot, but make sure the `repo_url` looks something like this (it should include your username instead of `xarantolus`):
 
     ```yml
-    repo_url: https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo
+    repo_url: https://seineeloquenz.github.io/fdroid/fdroid/repo
     ```
 
     You should also set `archive_older` to `0` to disable the archive:
@@ -117,6 +117,6 @@ Just remove all spaces from after "INFO" in the second line and you'll end up wi
 
 Now add it to your repo URL (add a `?fingerprint=`, then your key): 
 
-    https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo?fingerprint=080898AE4309AECEB58915E43A4B7C4A3E2CDA40C91738E2C02F58339AB2FBD7
+    https://fdroid.link/#https://seineeloquenz.github.io/fdroid/fdroid/repo?fingerprint=89F9F4075A3C1B995C7970A89E796AB7BC5A940B9837411FA35C6CD87659E186
 
 You should of course replace the username in the URL. This is the URL your users should add to the F-Droid client. You can also generate a QR code for this URL.
