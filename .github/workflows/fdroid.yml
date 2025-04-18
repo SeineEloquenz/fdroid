@@ -27,9 +27,10 @@ jobs:
 
       - name: Install F-Droid server software
         run: |
-         sudo add-apt-repository ppa:fdroid/fdroidserver
          sudo apt-get update
-         sudo apt-get install fdroidserver
+         sudo apt-get install git pip
+         sudo pip install androguard
+         sudo pip install git+https://gitlab.com/fdroid/fdroidserver.git
 
       - name: Set up repo secrets
         run: |
