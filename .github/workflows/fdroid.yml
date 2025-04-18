@@ -29,7 +29,7 @@ jobs:
         run: |
          sudo apt-get update
          sudo apt-get install git pip
-         sudo pip install androguard
+         sudo pip install androguard --break-system-packages
          sudo pip install git+https://gitlab.com/fdroid/fdroidserver.git
 
       - name: Set up repo secrets
