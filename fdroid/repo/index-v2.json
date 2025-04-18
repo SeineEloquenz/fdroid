@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/SeineEloquenz/fdroid/main/fdroid/repo",
-    "timestamp": 1744601564000,
+    "timestamp": 1744966389000,
     "categories": {
       "Food": {
         "name": {
@@ -354,7 +354,7 @@
         "categories": [
           "Multimedia"
         ],
-        "lastUpdated": 1732159171000,
+        "lastUpdated": 1744966376000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
         "screenshots": {
@@ -396,6 +396,41 @@
         "preferredSigner": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
       },
       "versions": {
+        "de37f83ad4f045a1c068c50d702fa73b08bf581eef39eb77de57d568bac05752": {
+          "added": 1744966376000,
+          "file": {
+            "name": "/fosswallet_v0.7.0.apk",
+            "sha256": "de37f83ad4f045a1c068c50d702fa73b08bf581eef39eb77de57d568bac05752",
+            "size": 5138216
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.7.0",
+            "versionCode": 21,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "32403c422baeae1e1ce53f20cb13e87a58fba9817bc3edb9dd67baafa0518dc3": {
           "added": 1732159171000,
           "file": {

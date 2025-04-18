@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1744601564000,
+    "timestamp": 1744966389000,
     "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -44,8 +44,8 @@
       "categories": [
         "Multimedia"
       ],
-      "suggestedVersionName": "0.6.1",
-      "suggestedVersionCode": "20",
+      "suggestedVersionName": "0.7.0",
+      "suggestedVersionCode": "21",
       "description": "FossWallet is a simple Material Design 3 .pkpass Wallet built with Jetpack Compose.\n",
       "license": "GPL-3.0",
       "name": "FossWallet",
@@ -53,7 +53,7 @@
       "summary": "FOSS .pkpass wallet in Material Design 3",
       "added": 1732159162000,
       "packageName": "nz.eloque.foss_wallet",
-      "lastUpdated": 1732159171000,
+      "lastUpdated": 1744966376000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -415,6 +415,36 @@
       }
     ],
     "nz.eloque.foss_wallet": [
+      {
+        "added": 1744966376000,
+        "apkName": "fosswallet_v0.7.0.apk",
+        "hash": "de37f83ad4f045a1c068c50d702fa73b08bf581eef39eb77de57d568bac05752",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "nz.eloque.foss_wallet",
+        "sig": "2e31b2f4b55e32c972aa0515bca22f20",
+        "signer": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305",
+        "size": 5138216,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 21,
+        "versionName": "0.7.0"
+      },
       {
         "added": 1732159171000,
         "apkName": "fosswallet_v0.6.1.apk",
