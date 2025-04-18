@@ -9,12 +9,12 @@
     "icon": {
       "en-US": {
         "name": "/icons/icon.png",
-        "sha256": "6a972d5ce04884010935aa5489550fa3af01b1e704915bff417425d221bbef91",
-        "size": 1011
+        "sha256": "80134bb924c2a2c413da1fb94e58ce771427ae4eadc2caa2dc47534d3c2ef51f",
+        "size": 796
       }
     },
-    "address": "https://raw.githubusercontent.com/SeineEloquenz/fdroid/main/fdroid/repo",
-    "timestamp": 1744966389000,
+    "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
+    "timestamp": 1744969225000,
     "categories": {
       "Food": {
         "name": {

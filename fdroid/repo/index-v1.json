@@ -1,10 +1,10 @@
 {
   "repo": {
-    "timestamp": 1744966389000,
+    "timestamp": 1744969225000,
     "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
-    "address": "https://raw.githubusercontent.com/SeineEloquenz/fdroid/main/fdroid/repo",
+    "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
     "description": "This repository contains apps created by SeineEloquenz."
   },
   "requests": {
