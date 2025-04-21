@@ -14,7 +14,7 @@
       }
     },
     "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
-    "timestamp": 1745232244000,
+    "timestamp": 1745248407000,
     "categories": {
       "Food": {
         "name": {
@@ -354,7 +354,7 @@
         "categories": [
           "Multimedia"
         ],
-        "lastUpdated": 1745232231000,
+        "lastUpdated": 1745248393000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
         "screenshots": {
@@ -396,6 +396,147 @@
         "preferredSigner": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
       },
       "versions": {
+        "728e60d788e2808b395ed7b66f5f2f5c978e1ba88d1626fd43fdadc5254f8d22": {
+          "added": 1745248381000,
+          "file": {
+            "name": "/fosswallet_v0.10.1.apk",
+            "sha256": "728e60d788e2808b395ed7b66f5f2f5c978e1ba88d1626fd43fdadc5254f8d22",
+            "size": 5257184
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.10.1",
+            "versionCode": 32,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "04268a69a4d3d9088195f801d8043f181e9310805aa18f77958f7861aafe19ec": {
+          "added": 1745248381000,
+          "file": {
+            "name": "/fosswallet_v0.10.0.apk",
+            "sha256": "04268a69a4d3d9088195f801d8043f181e9310805aa18f77958f7861aafe19ec",
+            "size": 5257184
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.10.0",
+            "versionCode": 31,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "5f868012bcee339ed0780597357aaaf416a6ca3e301da199b8e899b820276ff0": {
+          "added": 1745248393000,
+          "file": {
+            "name": "/fosswallet_v0.9.5.apk",
+            "sha256": "5f868012bcee339ed0780597357aaaf416a6ca3e301da199b8e899b820276ff0",
+            "size": 5257188
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.9.5",
+            "versionCode": 30,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "454c31f1ce3bef0dfc984ff7497934adb42462def50256ffa1c1b926043f413f": {
           "added": 1745232231000,
           "file": {
