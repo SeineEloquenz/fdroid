@@ -14,7 +14,7 @@
       }
     },
     "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
-    "timestamp": 1745231443000,
+    "timestamp": 1745231831000,
     "categories": {
       "Food": {
         "name": {
@@ -362,8 +362,8 @@
             "en-US": [
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/1.png",
-                "sha256": "4e1f0cbe06bb6e26d0e94cf3232168f458c9ce138181ca9cc82111a916143cd4",
-                "size": 359392
+                "sha256": "f95a21b995761152184ba6bc84e2ea89154a6eddf50f7e8aed1629c84d0fcfd5",
+                "size": 160232
               },
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/2.png",
@@ -377,8 +377,8 @@
               },
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/4.png",
-                "sha256": "86b2ec841fce651735eb022106eeeaa22ed27dd3068e2de220c0a485867858c7",
-                "size": 128405
+                "sha256": "f20c33991938221dd1038f611782b83bd99f9bd8f9403f728d5f2b2f5b1936ef",
+                "size": 97490
               }
             ]
           }
