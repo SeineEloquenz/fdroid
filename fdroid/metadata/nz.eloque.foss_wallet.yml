@@ -1,8 +1,8 @@
 AuthorName: SeineEloquenz
 Categories:
     - Multimedia
-CurrentVersion: 0.10.1
-CurrentVersionCode: 32
+CurrentVersion: 0.10.2
+CurrentVersionCode: 33
 Description: |
     FossWallet is a simple Material Design 3 .pkpass Wallet built with Jetpack Compose.
 IssueTracker: ""
