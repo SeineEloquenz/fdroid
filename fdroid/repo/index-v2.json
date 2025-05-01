@@ -14,7 +14,7 @@
       }
     },
     "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
-    "timestamp": 1746070677000,
+    "timestamp": 1746093324000,
     "categories": {
       "Food": {
         "name": {
@@ -1508,7 +1508,7 @@
         "categories": [
           "Food"
         ],
-        "lastUpdated": 1732159175000,
+        "lastUpdated": 1746093314000,
         "license": "AGPL-3.0",
         "sourceCode": "https://github.com/SeineEloquenz/justshop",
         "screenshots": {
@@ -1540,6 +1540,41 @@
         "preferredSigner": "e9ccc30fc7d8ef68eceaca20b2c9ee8f7aef1e499ba77340f9a7d8fb72cb61bb"
       },
       "versions": {
+        "b819227504834eb9f05b762c33e0661e46a31ff59e03a52fe557f0b864f2ec4f": {
+          "added": 1746093314000,
+          "file": {
+            "name": "/justshop_v0.2.3.apk",
+            "sha256": "b819227504834eb9f05b762c33e0661e46a31ff59e03a52fe557f0b864f2ec4f",
+            "size": 4902553
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.2.3",
+            "versionCode": 8,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "e9ccc30fc7d8ef68eceaca20b2c9ee8f7aef1e499ba77340f9a7d8fb72cb61bb"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "nz.eloque.justshop.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "aa25fa8c42aac312e1d2f8915aaca8c93d8307bae797cebf4ef6e88e43679303": {
           "added": 1732159175000,
           "file": {

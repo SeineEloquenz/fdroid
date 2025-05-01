@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1746070677000,
+    "timestamp": 1746093324000,
     "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -70,8 +70,8 @@
       "categories": [
         "Food"
       ],
-      "suggestedVersionName": "0.2.2",
-      "suggestedVersionCode": "7",
+      "suggestedVersionName": "0.2.3",
+      "suggestedVersionCode": "8",
       "description": "JustShop is a simple Material Design 3 shared shopping list application.\n\nYou need to host the backend yourself.\nThe Rust backend is found in the same repository as the App.\n",
       "license": "AGPL-3.0",
       "name": "JustShop",
@@ -79,7 +79,7 @@
       "summary": "Simple self-hosted shared shopping list with Material Design 3",
       "added": 1732159172000,
       "packageName": "nz.eloque.justshop",
-      "lastUpdated": 1732159175000,
+      "lastUpdated": 1746093314000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -1417,6 +1417,36 @@
       }
     ],
     "nz.eloque.justshop": [
+      {
+        "added": 1746093314000,
+        "apkName": "justshop_v0.2.3.apk",
+        "hash": "b819227504834eb9f05b762c33e0661e46a31ff59e03a52fe557f0b864f2ec4f",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "nz.eloque.justshop",
+        "sig": "3be3534b389482b9a59fd751c04e0846",
+        "signer": "e9ccc30fc7d8ef68eceaca20b2c9ee8f7aef1e499ba77340f9a7d8fb72cb61bb",
+        "size": 4902553,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "nz.eloque.justshop.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "0.2.3"
+      },
       {
         "added": 1732159175000,
         "apkName": "justshop_v0.2.1.apk",
