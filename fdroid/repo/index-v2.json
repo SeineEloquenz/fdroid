@@ -14,7 +14,7 @@
       }
     },
     "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
-    "timestamp": 1746329815000,
+    "timestamp": 1746416068000,
     "categories": {
       "Food": {
         "name": {
@@ -354,7 +354,7 @@
         "categories": [
           "Multimedia"
         ],
-        "lastUpdated": 1745604458000,
+        "lastUpdated": 1746416041000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
         "screenshots": {
@@ -396,6 +396,53 @@
         "preferredSigner": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
       },
       "versions": {
+        "ee6b4bfb10a8daa283345b250dfde37c55bcb93b800a5aebd9f03db1f7d60ab2": {
+          "added": 1746416041000,
+          "file": {
+            "name": "/fosswallet_v0.11.1.apk",
+            "sha256": "ee6b4bfb10a8daa283345b250dfde37c55bcb93b800a5aebd9f03db1f7d60ab2",
+            "size": 5463988
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.11.1",
+            "versionCode": 36,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "1ce92b54267692e1241d281295e57af7b7267faf0777140c454b495ce73036e9": {
           "added": 1745604458000,
           "file": {
