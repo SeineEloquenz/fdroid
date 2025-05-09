@@ -1,0 +1,42 @@
+{
+  "repo": {
+    "timestamp": 1746761549000
+  },
+  "packages": {
+    "nz.eloque.foss_wallet": {
+      "metadata": {
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/1.png",
+                "sha256": "91f0da54145c7e2ac873d71ed30c80e789816766ad7062be1f15fbba3924c488",
+                "size": 182037
+              },
+              {
+                "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/2.png",
+                "sha256": "401222b264dab7f6a922d807ef41535a4e8e9c1687e57456319c1338fbcb17b7",
+                "size": 652507
+              },
+              {
+                "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/3.png",
+                "sha256": "9bbc4ae2626fcca4570ee28553a42d987eb573a914d9d6e7e999702760b15f9b",
+                "size": 120161
+              },
+              {
+                "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/4.png",
+                "sha256": "f20c33991938221dd1038f611782b83bd99f9bd8f9403f728d5f2b2f5b1936ef",
+                "size": 97490
+              }
+            ]
+          }
+        }
+      },
+      "versions": {
+        "f9950ca1b56416a6ce1219b5730038e7ed275ce7a31afd9f86d376a088aa9301": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

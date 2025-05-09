@@ -14,7 +14,7 @@
       }
     },
     "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
-    "timestamp": 1746675213000,
+    "timestamp": 1746761549000,
     "categories": {
       "Food": {
         "name": {
@@ -354,7 +354,7 @@
         "categories": [
           "Multimedia"
         ],
-        "lastUpdated": 1746416041000,
+        "lastUpdated": 1746761524000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
         "screenshots": {
@@ -362,18 +362,18 @@
             "en-US": [
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/1.png",
-                "sha256": "f95a21b995761152184ba6bc84e2ea89154a6eddf50f7e8aed1629c84d0fcfd5",
-                "size": 160232
+                "sha256": "91f0da54145c7e2ac873d71ed30c80e789816766ad7062be1f15fbba3924c488",
+                "size": 182037
               },
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/2.png",
-                "sha256": "cf468fa4fc8f451e6bb74a3214d5731873bfe04808c3396d6a685c6d369f30d6",
-                "size": 740380
+                "sha256": "401222b264dab7f6a922d807ef41535a4e8e9c1687e57456319c1338fbcb17b7",
+                "size": 652507
               },
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/3.png",
-                "sha256": "c83a4fc6dae6d7a7e773c0f0d0a4fc3d74dc55595232f6b2b8167d7efb20b725",
-                "size": 104174
+                "sha256": "9bbc4ae2626fcca4570ee28553a42d987eb573a914d9d6e7e999702760b15f9b",
+                "size": 120161
               },
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/4.png",
@@ -396,6 +396,53 @@
         "preferredSigner": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
       },
       "versions": {
+        "f9950ca1b56416a6ce1219b5730038e7ed275ce7a31afd9f86d376a088aa9301": {
+          "added": 1746761524000,
+          "file": {
+            "name": "/fosswallet_v0.11.2.apk",
+            "sha256": "f9950ca1b56416a6ce1219b5730038e7ed275ce7a31afd9f86d376a088aa9301",
+            "size": 5513245
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.11.2",
+            "versionCode": 37,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "ee6b4bfb10a8daa283345b250dfde37c55bcb93b800a5aebd9f03db1f7d60ab2": {
           "added": 1746416041000,
           "file": {
