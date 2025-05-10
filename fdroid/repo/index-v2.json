@@ -14,7 +14,7 @@
       }
     },
     "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
-    "timestamp": 1746761549000,
+    "timestamp": 1746847659000,
     "categories": {
       "Food": {
         "name": {
@@ -354,7 +354,7 @@
         "categories": [
           "Multimedia"
         ],
-        "lastUpdated": 1746761524000,
+        "lastUpdated": 1746847634000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/SeineEloquenz/fosswallet",
         "screenshots": {
@@ -402,6 +402,53 @@
             "name": "/fosswallet_v0.11.2.apk",
             "sha256": "f9950ca1b56416a6ce1219b5730038e7ed275ce7a31afd9f86d376a088aa9301",
             "size": 5513245
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.11.2",
+            "versionCode": 37,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "a87d718bcb566548759c7117fa5893ab48bc65dfc3360231038e599731f1dfbc": {
+          "added": 1746847634000,
+          "file": {
+            "name": "/fosswallet_v0.11.3.apk",
+            "sha256": "a87d718bcb566548759c7117fa5893ab48bc65dfc3360231038e599731f1dfbc",
+            "size": 5516345
           },
           "manifest": {
             "nativecode": [
