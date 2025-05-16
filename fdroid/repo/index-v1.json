@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1747366512000,
+    "timestamp": 1747400833000,
     "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -44,8 +44,8 @@
       "categories": [
         "Multimedia"
       ],
-      "suggestedVersionName": "0.11.2",
-      "suggestedVersionCode": "37",
+      "suggestedVersionName": "0.11.4",
+      "suggestedVersionCode": "39",
       "description": "FossWallet is a simple Material Design 3 .pkpass Wallet built with Jetpack Compose.\n",
       "license": "GPL-3.0",
       "name": "FossWallet",
@@ -53,7 +53,7 @@
       "summary": "FOSS .pkpass wallet in Material Design 3",
       "added": 1732159162000,
       "packageName": "nz.eloque.foss_wallet",
-      "lastUpdated": 1746847634000,
+      "lastUpdated": 1747400806000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -415,6 +415,52 @@
       }
     ],
     "nz.eloque.foss_wallet": [
+      {
+        "added": 1747400806000,
+        "apkName": "fosswallet_v0.11.4.apk",
+        "hash": "a0a1bdd7d312c8e7af42e36d5e3f670da108bd975ddfe6068312f9d34eee64d3",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "nz.eloque.foss_wallet",
+        "sig": "2e31b2f4b55e32c972aa0515bca22f20",
+        "signer": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305",
+        "size": 5999046,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 39,
+        "versionName": "0.11.4"
+      },
       {
         "added": 1746761524000,
         "apkName": "fosswallet_v0.11.2.apk",
