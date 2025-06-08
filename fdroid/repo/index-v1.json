@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1749267376000,
+    "timestamp": 1749354226000,
     "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -44,8 +44,8 @@
       "categories": [
         "Multimedia"
       ],
-      "suggestedVersionName": "0.14.0",
-      "suggestedVersionCode": "43",
+      "suggestedVersionName": "0.15.2",
+      "suggestedVersionCode": "47",
       "description": "FossWallet is a simple Material Design 3 .pkpass Wallet built with Jetpack Compose.\n",
       "license": "GPL-3.0",
       "name": "FossWallet",
@@ -53,7 +53,7 @@
       "summary": "FOSS .pkpass wallet in Material Design 3",
       "added": 1732159162000,
       "packageName": "nz.eloque.foss_wallet",
-      "lastUpdated": 1749181096000,
+      "lastUpdated": 1749354200000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -415,6 +415,156 @@
       }
     ],
     "nz.eloque.foss_wallet": [
+      {
+        "added": 1749354200000,
+        "apkName": "fosswallet_v0.15.2.apk",
+        "hash": "4810607a25d18e67a83c99e80694340630777eabcaea98db8bc01193156fb64e",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "nz.eloque.foss_wallet",
+        "sig": "2e31b2f4b55e32c972aa0515bca22f20",
+        "signer": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305",
+        "size": 6165090,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 47,
+        "versionName": "0.15.2"
+      },
+      {
+        "added": 1749354200000,
+        "apkName": "fosswallet_v0.15.1.apk",
+        "hash": "fd7a0cb5478cda553269f1a18b041899b0b1c6494bbcfcb86fe0c69e42c16173",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "nz.eloque.foss_wallet",
+        "sig": "2e31b2f4b55e32c972aa0515bca22f20",
+        "signer": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305",
+        "size": 6181470,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 46,
+        "versionName": "0.15.1"
+      },
+      {
+        "added": 1749354199000,
+        "apkName": "fosswallet_v0.15.0.apk",
+        "hash": "82b26c8592bb9b5ac0799a567eb2e171d548ab6a2cf755036bcc69f1e287f248",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "nz.eloque.foss_wallet",
+        "sig": "2e31b2f4b55e32c972aa0515bca22f20",
+        "signer": "bf8af6d89e5595d95f4d229ec0fd971a3c752fdbabe83377230ef92c70444305",
+        "size": 6181474,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "nz.eloque.foss_wallet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 45,
+        "versionName": "0.15.0"
+      },
       {
         "added": 1749181096000,
         "apkName": "fosswallet_v0.14.0.apk",
