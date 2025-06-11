@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1749526840000,
+    "timestamp": 1749613216000,
     "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -60,7 +60,8 @@
             "1.png",
             "2.png",
             "3.png",
-            "4.png"
+            "4.png",
+            "5.png"
           ]
         }
       }

@@ -14,7 +14,7 @@
       }
     },
     "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
-    "timestamp": 1749526840000,
+    "timestamp": 1749613216000,
     "categories": {
       "Food": {
         "name": {
@@ -362,23 +362,28 @@
             "en-US": [
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/1.png",
-                "sha256": "91f0da54145c7e2ac873d71ed30c80e789816766ad7062be1f15fbba3924c488",
-                "size": 182037
+                "sha256": "f914eec349d7123d5aec890d0f3183d23d0cb34fae020337c32cf29c4a45c382",
+                "size": 219548
               },
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/2.png",
-                "sha256": "401222b264dab7f6a922d807ef41535a4e8e9c1687e57456319c1338fbcb17b7",
-                "size": 652507
+                "sha256": "4b8ae77839ea6d21ff60533c0b4aef47ca29e6e42dac2b027b7776c9a8a3a5e0",
+                "size": 962266
               },
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/3.png",
-                "sha256": "9bbc4ae2626fcca4570ee28553a42d987eb573a914d9d6e7e999702760b15f9b",
-                "size": 120161
+                "sha256": "087758aad4945c52280be2f587d866ebf7e73f3db7ad6f3ac8eba16295d8633e",
+                "size": 165519
               },
               {
                 "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/4.png",
-                "sha256": "f20c33991938221dd1038f611782b83bd99f9bd8f9403f728d5f2b2f5b1936ef",
-                "size": 97490
+                "sha256": "13c7bfb410d7b1bce2aa3994667912868bd10e15a92cf6daa7df1551486e1b96",
+                "size": 205913
+              },
+              {
+                "name": "/nz.eloque.foss_wallet/en-US/phoneScreenshots/5.png",
+                "sha256": "1f098da3c37cb9a247229e530f8b4b77be79a7daf6890d7b08e7da36c75d7d1e",
+                "size": 126664
               }
             ]
           }
