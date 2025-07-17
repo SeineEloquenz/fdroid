@@ -5,16 +5,6 @@ embertalk:
     Embertalk is a private BLE chat application working without an Internet connection.
   categories:
     - Messaging
-fosswallet:
-  git: https://github.com/SeineEloquenz/fosswallet
-  name: "FossWallet"
-  description: |
-    FossWallet is a simple Material Design 3 .pkpass Wallet built with Jetpack Compose.
-
-  # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
-  # you can use any name here, but you should look at the existing categories first
-  categories:
-    - Multimedia
 justshop:
   git: https://github.com/SeineEloquenz/justshop
   name: "JustShop"
