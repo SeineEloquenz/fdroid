@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1756006776000,
+    "timestamp": 1756048240000,
     "version": 20002,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -59,36 +59,6 @@
           "phoneScreenshots": [
             "1.png",
             "2.png"
-          ]
-        }
-      }
-    },
-    {
-      "authorName": "SeineEloquenz",
-      "categories": [
-        "fdroid"
-      ],
-      "suggestedVersionName": "1.4.3",
-      "suggestedVersionCode": "12",
-      "description": "This is a MD3 fork of Untare, an unofficial application for Tandoor recipes\n",
-      "license": "GPL-3.0",
-      "name": "Untare",
-      "sourceCode": "https://github.com/SeineEloquenz/Untare",
-      "summary": "Flutter app for tandoor recipes",
-      "added": 1732159176000,
-      "packageName": "nz.eloque.untare",
-      "lastUpdated": 1745011357000,
-      "localized": {
-        "en-US": {
-          "phoneScreenshots": [
-            "1.png",
-            "2.png",
-            "3.png",
-            "4.png",
-            "5.png",
-            "6.png",
-            "7.png",
-            "8.png"
           ]
         }
       }
@@ -616,143 +586,6 @@
         ],
         "versionCode": 1,
         "versionName": "0.1"
-      }
-    ],
-    "nz.eloque.untare": [
-      {
-        "added": 1745011357000,
-        "apkName": "untare_v1.4.3.apk",
-        "hash": "16b272e54e7a50df39150b99677c742052e360c8bc9af6e1e23d01951f4a3adb",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "nz.eloque.untare",
-        "sig": "66ab8893284193fd1bbf2f3a91051787",
-        "signer": "ab3f7a6adc6cdb24d9d1246e0a375bdf2bfff69935b656a74311240e38742398",
-        "size": 28026605,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "nz.eloque.untare.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 12,
-        "versionName": "1.4.3"
-      },
-      {
-        "added": 1732159177000,
-        "apkName": "untare_v1.4.2.apk",
-        "hash": "d5ac8978cee89331df87a7ea90d5d17c5c098fb779dbf9bea75abe5a38a4c2ff",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "nz.eloque.untare",
-        "sig": "66ab8893284193fd1bbf2f3a91051787",
-        "signer": "ab3f7a6adc6cdb24d9d1246e0a375bdf2bfff69935b656a74311240e38742398",
-        "size": 27997741,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "nz.eloque.untare.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 11,
-        "versionName": "1.4.2"
-      },
-      {
-        "added": 1732159176000,
-        "apkName": "untare_v1.4.0.apk",
-        "hash": "c0baf0095cb46fa09931b6a7e53a05532aeb4e6692a7bce715dbee4c9002e043",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "nz.eloque.untare",
-        "sig": "66ab8893284193fd1bbf2f3a91051787",
-        "signer": "ab3f7a6adc6cdb24d9d1246e0a375bdf2bfff69935b656a74311240e38742398",
-        "size": 27972179,
-        "targetSdkVersion": 34,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "nz.eloque.untare.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 9,
-        "versionName": "1.4.0"
       }
     ]
   }
