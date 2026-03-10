@@ -14,7 +14,7 @@
       }
     },
     "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
-    "timestamp": 1773030734000,
+    "timestamp": 1773116754851,
     "categories": {
       "Food": {
         "name": {
@@ -54,8 +54,8 @@
             "size": 33
           },
           "manifest": {
-            "versionName": "ae289cc",
-            "versionCode": 0
+            "versionCode": 0,
+            "versionName": "ae289cc"
           }
         }
       }
