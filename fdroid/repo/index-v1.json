@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1773289683917,
+    "timestamp": 1773375975094,
     "version": 30000,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -83,6 +83,12 @@
         "hash": "dafe67bebf14631d626ebf36711db5fc4d5eb9616d713626165f19feb9cb2bc2",
         "hashType": "sha256",
         "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
         "packageName": "edu.kit.tm.ps.embertalk",
         "sig": "4284cd841c22c7900621b1ebb8a1fd16",
         "signer": "86e5c5f6541a40cd9a4906ba7eaef79fcb6e2b10b9601d8de9005fb617442b07",
@@ -147,6 +153,12 @@
         "hash": "864bd8213b26e3330bb87802f0fac60fa0001e7fe733cce2a811bde56866b529",
         "hashType": "sha256",
         "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
         "packageName": "edu.kit.tm.ps.embertalk",
         "sig": "4284cd841c22c7900621b1ebb8a1fd16",
         "signer": "86e5c5f6541a40cd9a4906ba7eaef79fcb6e2b10b9601d8de9005fb617442b07",
@@ -211,6 +223,12 @@
         "hash": "4aa21c02550c915753507f1bfa43886bca89a4b3c51c7093794fb437557dd2a9",
         "hashType": "sha256",
         "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
         "packageName": "edu.kit.tm.ps.embertalk",
         "sig": "4284cd841c22c7900621b1ebb8a1fd16",
         "signer": "86e5c5f6541a40cd9a4906ba7eaef79fcb6e2b10b9601d8de9005fb617442b07",
@@ -275,6 +293,12 @@
         "hash": "d19dc2ceaf77e17df752e82390387941596fb04178c69a456b64334124b02812",
         "hashType": "sha256",
         "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
         "packageName": "edu.kit.tm.ps.embertalk",
         "sig": "4284cd841c22c7900621b1ebb8a1fd16",
         "signer": "86e5c5f6541a40cd9a4906ba7eaef79fcb6e2b10b9601d8de9005fb617442b07",
@@ -341,6 +365,12 @@
         "hash": "064a6dec646d84b993609a9bea78973e9c54943cd838e084f647c1dbe9829a97",
         "hashType": "sha256",
         "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
         "packageName": "nz.eloque.justshop",
         "sig": "3be3534b389482b9a59fd751c04e0846",
         "signer": "e9ccc30fc7d8ef68eceaca20b2c9ee8f7aef1e499ba77340f9a7d8fb72cb61bb",
@@ -365,6 +395,12 @@
         "hash": "b819227504834eb9f05b762c33e0661e46a31ff59e03a52fe557f0b864f2ec4f",
         "hashType": "sha256",
         "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
         "packageName": "nz.eloque.justshop",
         "sig": "3be3534b389482b9a59fd751c04e0846",
         "signer": "e9ccc30fc7d8ef68eceaca20b2c9ee8f7aef1e499ba77340f9a7d8fb72cb61bb",
