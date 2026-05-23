@@ -7,8 +7,8 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
 | <a href=""><img src="fdroid/repo/icons/" alt="categories icon" width="36px" height="36px"></a> | [**categories**]() |  |  (2147483647) |
-| <a href="https://github.com/SeineEloquenz/embertalk"><img src="fdroid/repo/icons/" alt="Embertalk icon" width="36px" height="36px"></a> | [**Embertalk**](https://github.com/SeineEloquenz/embertalk) | Embertalk is a private BLE chat application working without Internet connection | 0.3.1 (6) |
-| <a href="https://github.com/SeineEloquenz/justshop"><img src="fdroid/repo/icons/" alt="JustShop icon" width="36px" height="36px"></a> | [**JustShop**](https://github.com/SeineEloquenz/justshop) | Simple self-hosted shared shopping list with Material Design 3 | 0.3.0 (9) |
+| <a href="https://github.com/SeineEloquenz/embertalk"><img src="fdroid/repo/icons/edu.kit.tm.ps.embertalk.6.png" alt="Embertalk icon" width="36px" height="36px"></a> | [**Embertalk**](https://github.com/SeineEloquenz/embertalk) | Embertalk is a private BLE chat application working without Internet connection | 0.3.1 (6) |
+| <a href="https://github.com/SeineEloquenz/justshop"><img src="fdroid/repo/icons/nz.eloque.justshop.9.png" alt="JustShop icon" width="36px" height="36px"></a> | [**JustShop**](https://github.com/SeineEloquenz/justshop) | Simple self-hosted shared shopping list with Material Design 3 | 0.3.0 (9) |
 <!-- end apps table -->
 
 ### How to use

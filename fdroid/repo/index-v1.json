@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1779431694718,
+    "timestamp": 1779515710352,
     "version": 30000,
     "name": "SeineEloquenz' F-Droid",
     "icon": "icon.png",
@@ -36,6 +36,7 @@
       "sourceCode": "https://github.com/SeineEloquenz/embertalk",
       "summary": "Embertalk is a private BLE chat application working without Internet connection",
       "added": 1732159161000,
+      "icon": "edu.kit.tm.ps.embertalk.6.png",
       "packageName": "edu.kit.tm.ps.embertalk",
       "lastUpdated": 1732159162000
     },
@@ -52,6 +53,7 @@
       "sourceCode": "https://github.com/SeineEloquenz/justshop",
       "summary": "Simple self-hosted shared shopping list with Material Design 3",
       "added": 1732159172000,
+      "icon": "nz.eloque.justshop.9.png",
       "packageName": "nz.eloque.justshop",
       "lastUpdated": 1747154448000,
       "localized": {

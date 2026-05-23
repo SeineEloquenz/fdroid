@@ -14,7 +14,7 @@
       }
     },
     "address": "https://seineeloquenz.github.io/fdroid/fdroid/repo",
-    "timestamp": 1779431694718,
+    "timestamp": 1779515710352,
     "categories": {
       "Food": {
         "name": {
@@ -77,6 +77,13 @@
         },
         "description": {
           "en-US": "Embertalk is a private BLE chat application working without an Internet connection.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/edu.kit.tm.ps.embertalk.6.png",
+            "sha256": "09ee0367a7ade0f6e9d2ab3ce8090f0d2381fb40f500b8a41004fcd9d4c49c0f",
+            "size": 1928
+          }
         },
         "preferredSigner": "86e5c5f6541a40cd9a4906ba7eaef79fcb6e2b10b9601d8de9005fb617442b07"
       },
@@ -377,6 +384,13 @@
         },
         "description": {
           "en-US": "JustShop is a simple Material Design 3 shared shopping list application.\n\nYou need to host the backend yourself.\nThe Rust backend is found in the same repository as the App.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/nz.eloque.justshop.9.png",
+            "sha256": "a0d2c3b372a690e442fd766668b2a23c903ec0c023aca7f044a7dec2a571d295",
+            "size": 680
+          }
         },
         "preferredSigner": "e9ccc30fc7d8ef68eceaca20b2c9ee8f7aef1e499ba77340f9a7d8fb72cb61bb"
       },
